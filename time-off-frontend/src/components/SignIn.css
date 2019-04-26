@@ -1,0 +1,31 @@
+.bgpicture{
+    background-image: url('/img/employ.png');
+    
+    background-size: cover;
+    height: 100%;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    position: relative;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 20px;
+}
+.pageform{
+
+    margin: 0px auto;
+    margin-top: 80px;
+    width: 500px;
+    padding: 30px;
+    margin-bottom: 50px;
+}
+.signinbutton{
+    width: 250px;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 100px;
+}
